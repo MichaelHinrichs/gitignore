@@ -1,11 +1,11 @@
-lib/debug
-lib/release
-Debug
+[Ll]ib/[Dd]ebug/
+[Ll]ib/[Rr]elease/
+[Dd]ebug
 *.suo
 *.user
-obj
-bin
-/build/
+[Oo]bj/
+[Bb]in/
+/[Bb]uild/
 *.exe
 !.paket/paket.bootstrapper.exe
 .ionide/
